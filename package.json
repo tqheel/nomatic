@@ -1,0 +1,19 @@
+{
+  "name": "nomatic",
+  "version": "1.0.0",
+  "description": "scripts and cli tool for notion integrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tqheel/nomatic.git"
+  },
+  "author": "Todd E. Qualls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tqheel/nomatic/issues"
+  },
+  "homepage": "https://github.com/tqheel/nomatic#readme"
+}
